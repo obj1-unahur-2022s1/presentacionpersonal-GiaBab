@@ -1,4 +1,4 @@
-# Presentación de Programación con Objetos I de Gabriel Bianglino para el ejemplo de encuentro 2-4-22
+# Presentación de Gabriel Bianglino
 - [x] Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
 - [x] Instituto de Tecnología e Ingeniería 
 - [x] Licenciatura en Informática
