@@ -14,5 +14,5 @@
 * comics y manga
 * hacer experimentos raros en los lenjuage que aprendo
 
-## dejamos una reflexión 🤪
-![somos todos](https://github.com/obj1-unahur-2022s1/PresentacionPersonal/blob/main/meme.jpg)
+## Milanesa 🤪
+![somos todos](meme.jpg)
