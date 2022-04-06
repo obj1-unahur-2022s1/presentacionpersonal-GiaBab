@@ -1,7 +1,7 @@
 # Presentación de Gabriel Bianglino
-- [x] Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
+- [x] Estudio en la Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
 - [x] Instituto de Tecnología e Ingeniería 
-- [x] Licenciatura en Informática
+- [x] Tecnicatura en programacion
 - [x] Pagína Web de [Cursada](https://obj1-unahur.github.io/)
 
 ## Este cuatrimestre 
